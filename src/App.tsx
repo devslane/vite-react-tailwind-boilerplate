@@ -4,7 +4,7 @@ const App: React.FC = () => (
   <div className='flex flex-col h-full'>
     <div className='flex flex-col items-center justify-center h-4/5'>
       <span className='text-4xl'>Basic Setup</span>
-      <span className='text-4xl'>Vite + React + Tailwind + Redux</span>
+      <span className='text-4xl'>Vite + React + Tailwind</span>
     </div>
     <div className='flex flex-col items-center justify-center'>
       <span className='text-4xl'>
